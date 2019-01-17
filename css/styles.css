@@ -21,8 +21,6 @@ h2{
 h3{
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
-  width: 50%;
-  margin: auto;
 }
 p{
     line-height: 2;
@@ -49,6 +47,10 @@ hr{
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
+}
+.message{
+  width: 50%;
+  margin: auto;
 }
 .top-container{
     background-color:#1fab89;
