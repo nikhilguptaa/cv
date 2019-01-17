@@ -21,6 +21,8 @@ h2{
 h3{
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+  width: 50%;
+  margin: auto;
 }
 p{
     line-height: 2;
