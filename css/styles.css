@@ -45,8 +45,18 @@ hr{
 }
 .skill-row{
   width: 50%;
-  margin: 100px auto 100px auto;
   text-align: left;
+  margin: 100px auto 100px auto;
+}
+.design{
+  position: relative;
+  left: 200px;
+  width:70%;
+}
+.hot{
+  position: relative;
+left: 100px;
+  width:70%;
 }
 .top-container{
     background-color:#1fab89;
@@ -55,18 +65,20 @@ hr{
 
 }
 .skill-img{
-  width: 25%;
-  float: left;
+  width: 150px;
   margin-right: 30px;
+  position: absolute;
+  left: 500px;
 }
 .contact-msg{
   width: 40%;
   margin: 40px auto 60px;
 }
 .hot-img{
-  width: 25%;
-  float: right;
+  width: 150px;
   margin-right: 30px;
+  position: absolute;
+  right: 500px;
 }
 .intro{
   width: 30%;
