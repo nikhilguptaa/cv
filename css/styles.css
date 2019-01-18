@@ -44,20 +44,11 @@ hr{
   margin: 100px auto 100px auto;
 }
 .skill-row{
-  width: 50%;
+  width: 40%;
   text-align: left;
   margin: 100px auto 100px auto;
 }
-.design{
-  position: relative;
-  left: 200px;
-  width:70%;
-}
-.hot{
-  position: relative;
-left: 100px;
-  width:70%;
-}
+
 .top-container{
     background-color:#1fab89;
     position: relative;
@@ -65,20 +56,18 @@ left: 100px;
 
 }
 .skill-img{
-  width: 150px;
+  width: 25%;
   margin-right: 30px;
-  position: absolute;
-  left: 500px;
+  float: left;
 }
 .contact-msg{
-  width: 40%;
+  width: 30%;
   margin: 40px auto 60px;
 }
 .hot-img{
-  width: 150px;
+  width: 25%;
   margin-right: 30px;
-  position: absolute;
-  right: 500px;
+  float: right;
 }
 .intro{
   width: 30%;
